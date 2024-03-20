@@ -1,5 +1,5 @@
 # LNR_in_colab
-Using morphological image processing and easyOCR to recognize license plates; Demonstrating the detection with live stream through webcam Google Colab.
+Using morphological image processing and easyOCR to recognize license plates; Demonstrating the realtime detection with webcam in Google Colab.
 * **colab_LPR.ipynb** demonstrates the execution in Google Colab
 * **anpr_easy.py** ([reference](https://pyimagesearch.com/2020/09/21/opencv-automatic-license-number-plate-recognition-anpr-with-python/)) and **colab_cam.py** ([reference](https://github.com/OmniXRI/Colab_Webcam_OpenCV)) are files needed to be uploaded in Colab when we execute colab_LPR.ipynb
 
