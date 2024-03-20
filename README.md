@@ -11,5 +11,5 @@ I use morphological image processing to detect the license plates according to t
 * OCR<br>
 I use `easyOCR` to perform OCR, specifying the allow list of the result. The `easyocr.Reader(['en'])` is not written in **anpr_easy.py** because it takes a while to download the detection model.
 
-## Video Streaming in Google Colab
+## Webcam and Realtime License Plates Recognition in Google Colab
 According to Colab_Webcam_OpenCV repository ([reference](https://github.com/OmniXRI/Colab_Webcam_OpenCV)), I edit the `realtime_process()` function to draw LPR results on the screen.
