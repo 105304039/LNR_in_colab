@@ -13,5 +13,7 @@ I use `easyOCR` to perform OCR, specifying the allow list of the result. The `ea
 
 ## Webcam and Realtime License Plates Recognition in Google Colab
 According to Colab_Webcam_OpenCV repository ([reference](https://github.com/OmniXRI/Colab_Webcam_OpenCV)), I edit the `realtime_process()` function to draw LPR results on the screen.<br>
-The execution in Google Colab is `main.ipynb`. Demo video is as below...
+The execution in Google Colab is `main.ipynb`. Demo video is as below...<br>
+*Note: `anpr_easy.py` and `colab_cam.py` must be uploaded to the current Colab environment before we run `main.ipynb`.<br>
+<br>
 ![image](https://github.com/105304039/LPR_in_colab/blob/main/demo/Executiion%20in%20colab.gif)
